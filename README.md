@@ -15,6 +15,9 @@
 ## Fun facts
 - Competing Flair Bartender and Mixologist
 - Rescue Diver License in PADI
+
+## Portfolio
+Click [here](https://garciajordy.github.io/Portfolio/) to see my portfolio
 ## Personal Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garciajordy)](https://github.com/anuraghazra/github-readme-stats)
 ## Languages
