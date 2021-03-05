@@ -14,7 +14,7 @@
   [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=jordygarcia0119@gmail.com)  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordy-garcia-675849206/)
 ## Fun facts
 - Competing Flair Bartender and Mixologist
-- Love for diving and hiking
+- Rescue Diver License in PADI
 ## Personal Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garciajordy)](https://github.com/anuraghazra/github-readme-stats)
 ## Languages
