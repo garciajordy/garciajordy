@@ -1,4 +1,4 @@
-![Yellow and Black Global Response Engineer LinkedIn Banner](https://user-images.githubusercontent.com/74253475/110101224-f9472100-7dab-11eb-8586-3a97fd1cfe77.gif)
+![Yellow and Black Global Response Engineer LinkedIn Banner](https://user-images.githubusercontent.com/74253475/110103331-80959400-7dae-11eb-9564-f8fe7bc63033.gif)
 
 
 ### Hi there 👋
@@ -18,4 +18,3 @@
 ## Personal Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garciajordy)](https://github.com/anuraghazra/github-readme-stats)
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garciajordy)](https://github.com/anuraghazra/github-readme-stats)
