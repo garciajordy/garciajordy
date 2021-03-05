@@ -1,3 +1,6 @@
+![Yellow and Black Global Response Engineer LinkedIn Banner](https://user-images.githubusercontent.com/74253475/110101224-f9472100-7dab-11eb-8586-3a97fd1cfe77.gif)
+
+
 ### Hi there 👋
 
 ## Studying
