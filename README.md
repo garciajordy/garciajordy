@@ -21,4 +21,4 @@ Click [here](https://garciajordy.github.io/Portfolio/) to see my portfolio
 ## Personal Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garciajordy)](https://github.com/anuraghazra/github-readme-stats)
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garciajordy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garciajordy&hide=html)](https://github.com/anuraghazra/github-readme-stats)
