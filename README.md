@@ -74,8 +74,8 @@ Click [here](https://garciajordy.github.io/Portfolio-v2/) to see my portfolio.
 
 <p>
 <a href="(https://github.com/anuraghazra/github-readme-stats)">
-  <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=garciajordy&show_icons=true&bg_color=fbfaf9&hide_border=true&line_height=21" style="width:100%;"  />
-  <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garciajordy&hide=html&layout=compact&bg_color=fbfaf9&hide_border=true&" style="width:100%;"  />
+  <img align="center" height="145px" src="https://github-readme-stats.vercel.app/api?username=garciajordy&show_icons=true&bg_color=fbfaf9&hide_border=true&line_height=21" style="width:100%;"  />
+  <img align="center" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garciajordy&hide=html&layout=compact&bg_color=fbfaf9&hide_border=true&" style="width:100%;"  />
 </a>
  </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garciajordy&label=Profile%20views&color=0e75b6&style=flat" /> </p>
