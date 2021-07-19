@@ -70,8 +70,8 @@ Click [here](https://garciajordy.github.io/Portfolio-v2/) to see my portfolio.
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="55" height="55"/> 
   </a> 
 </p>
-
-
+<h1 align="center">Badges:</h1>
+<a href="https://www.learnenough.com/certificates/89df43a0"><img src="https://www.learnenough.com/certificates/89df43a0/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/89df43a0"><img src="https://www.learnenough.com/certificates/89df43a0/action-cable-tutorial.svg" alt="Certificate of Completion for Learn Enough Action Cable"></a>
 <p>
 <a href="(https://github.com/anuraghazra/github-readme-stats)">
   <img align="center" height="145px" src="https://github-readme-stats.vercel.app/api?username=garciajordy&show_icons=true&bg_color=fbfaf9&hide_border=true&line_height=21" style="width:100%;"  />
