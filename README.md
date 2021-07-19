@@ -71,7 +71,10 @@ Click [here](https://garciajordy.github.io/Portfolio-v2/) to see my portfolio.
   </a> 
 </p>
 <h1 align="center">Badges:</h1>
-<a href="https://www.learnenough.com/certificates/89df43a0"><img src="https://www.learnenough.com/certificates/89df43a0/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/89df43a0"><img src="https://www.learnenough.com/certificates/89df43a0/action-cable-tutorial.svg" alt="Certificate of Completion for Learn Enough Action Cable"></a>
+
+<a href="https://www.learnenough.com/certificates/89df43a0"><img src="https://www.learnenough.com/certificates/89df43a0/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/89df43a0"><img src="https://www.learnenough.com/certificates/89df43a0/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a><a href="https://www.learnenough.com/certificates/89df43a0"><img src="https://www.learnenough.com/certificates/89df43a0/ruby-on-rails-6th-edition-tutorial.svg" alt="Certificate of Completion for The Ruby on Rails Tutorial, 6th Ed."></a><a href="https://www.learnenough.com/certificates/89df43a0"><img src="https://www.learnenough.com/certificates/89df43a0/action-cable-tutorial.svg" alt="Certificate of Completion for Learn Enough Action Cable"></a>
+
+
 <p>
 <a href="(https://github.com/anuraghazra/github-readme-stats)">
   <img align="center" height="145px" src="https://github-readme-stats.vercel.app/api?username=garciajordy&show_icons=true&bg_color=fbfaf9&hide_border=true&line_height=21" style="width:100%;"  />
